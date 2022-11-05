@@ -1,0 +1,11 @@
+1.
+for: Es un ciclo repetitivo que te permite evaluar muchísimas opciones con muy pocas instrucciones. Tenés que definir un nombre de variable y darle un valor inicial, luego tenés que definir una condición que debe cumplir esa variable para que -mientras esa condición se cumpla- el código se continúe ejecutando, y por último asignar una forma de ir cambiando el valor de la variable en cada ciclo (generalmente incrementando el valor de la misma) para que la condición no se cumple indefinidamente sino que tenga una "condición de salida". 
+
+&&, ||, !: Son operadores lógicos, es decir, símbolos que nos indican cómo debemos operar con determinados valores booleanos (true o false). Corresponden a las operaciones lógicas "y", "o", y "negación", respectivamente. Generalmente && y || involucran a dos expresiones, escritas una a cada lado, que representan valores booleanos.
+	
+	condición_1 && condición_2 implica que la condición final va a ser verdadera (true) sólo si ambas expresiones son verdaderas
+
+	condición_1 || condición_2 implica que la condición final va a ser verdadera si alguna de las expresiones (o las dos) son verdaderas
+
+	El operador "!" precediendo a un valor booleano convierte a éste en su antagónico. Es decir, !true es false y !false es true.
+	
