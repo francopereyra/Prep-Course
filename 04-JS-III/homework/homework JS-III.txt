@@ -1,0 +1,2 @@
+1.
+Arrays: Un array es una lista de elementos que mantienen un determinado orden; sus datos pueden ser de cualquier tipo y no necesariamente tienen que ser todos del mismo tipo. EL primer elemento tiene subíndice cero, el segundo uno, y así sucesivamente.
